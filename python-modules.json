@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://files.pythonhosted.org/packages/6d/5f/e9e9227b475b27a2b922e059edf01aab0b1b034c490c7eb54f46fd64b3a3/OpenTimelineIO-0.15.0.tar.gz",
-                    "sha256": "bb093fb1d1a6e0f2c0ebbda6f7be0906080a63d611da5aa9b6c5d0f1f2f86916",
+                    "url": "https://files.pythonhosted.org/packages/5b/79/f518a24db8333f5c3e7381bbcea1141b889d402feef1c4787079a8a3abc2/OpenTimelineIO-0.17.0.dev1.tar.gz",
+                    "sha256": "e1457958638dd37c82f11bc5c3144f7cd0d8f06d74ef82a5cadbec41214f9119",
                     "x-checker-data": {
                         "type": "pypi",
                         "name": "OpenTimelineIO"
