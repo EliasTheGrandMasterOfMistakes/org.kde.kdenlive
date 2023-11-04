@@ -691,6 +691,7 @@
                 "--enable-rpath",
                 "--enable-shared",
                 "--enable-vaapi",
+                "--enable-qsv",
                 "--enable-vdpau"
             ],
             "build-options": {
