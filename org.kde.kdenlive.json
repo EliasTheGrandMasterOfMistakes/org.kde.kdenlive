@@ -720,7 +720,12 @@
                     "AR": "llvm-ar",
                     "CC": "clang",
                     "CXX": "clang++",
-                    "RANLIB": "llvm-ranlib"
+                    "RANLIB": "llvm-ranlib",
+                    "LD": "lld",
+                    "CC_LD": "lld",
+                    "CXX_LD": "lld",
+                    "NM": "llvm-nm",
+                    "STRIP": "llvm-strip"
                 },
                 "arch": {
                     "x86_64": {
