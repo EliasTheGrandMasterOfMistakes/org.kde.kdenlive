@@ -694,8 +694,8 @@
                 "--enable-vdpau"
             ],
             "build-options": {
-                "prepend-path": "/usr/lib/sdk/llvm15/bin",
-                "prepend-ld-library-path": "/usr/lib/sdk/llvm15/lib",
+                "prepend-path": "/usr/lib/sdk/llvm17/bin",
+                "prepend-ld-library-path": "/usr/lib/sdk/llvm17/lib",
                 "arch": {
                     "x86_64": {
                         "config-opts": [
