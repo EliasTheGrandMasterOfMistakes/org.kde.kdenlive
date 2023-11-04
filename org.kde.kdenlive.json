@@ -691,8 +691,7 @@
                 "--enable-rpath",
                 "--enable-shared",
                 "--enable-vaapi",
-                "--enable-vdpau",
-                "--enable-qsv"
+                "--enable-vdpau"
             ],
             "build-options": {
                 "prepend-path": "/usr/lib/sdk/llvm17/bin",
