@@ -715,6 +715,13 @@
             "build-options": {
                 "prepend-path": "/usr/lib/sdk/llvm17/bin",
                 "prepend-ld-library-path": "/usr/lib/sdk/llvm17/lib",
+                "ldflags": "-fuse-ld=lld",
+                "env": {
+                    "AR": "llvm-ar",
+                    "CC": "clang",
+                    "CXX": "clang++",
+                    "RANLIB": "llvm-ranlib"
+                },
                 "arch": {
                     "x86_64": {
                         "config-opts": [
