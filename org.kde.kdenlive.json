@@ -5,7 +5,7 @@
     "runtime-version": "5.15-22.08",
     "sdk": "org.kde.Sdk",
     "sdk-extensions": [
-        "org.freedesktop.Sdk.Extension.llvm15"
+        "org.freedesktop.Sdk.Extension.llvm16"
     ],
     "command": "kdenlive",
     "rename-icon": "kdenlive",
