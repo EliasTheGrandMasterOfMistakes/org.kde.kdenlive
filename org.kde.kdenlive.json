@@ -737,10 +737,6 @@
                         "stable-only": true,
                         "url-template": "https://www.ffmpeg.org/releases/ffmpeg-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "ffmpeg-binutils-2.41.patch"
                 }
             ]
         },
