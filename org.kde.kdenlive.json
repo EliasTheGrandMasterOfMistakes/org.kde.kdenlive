@@ -854,7 +854,7 @@
                 {
                     "type": "git",
                     "url": "http://git.sesse.net/movit",
-                    "commit": "0b1705581552217b0e387bd687d65e4e3410ab91"
+                    "commit": "7af0417ef03b66e15bd6da7802a7db30c92dd9c3"
                 }
             ]
         },
